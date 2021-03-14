@@ -1,0 +1,123 @@
+disp.name.flag,disp.name.en,disp.name.cn
+SwitchLogo,Screen Switch Logo,屏幕切换Logo
+Startup,Startup,开机页面
+Ready,Ready,准备
+ControlPanels,Temperature Control,温度控制面板
+Preheat,Preheat,预热
+Heat,Heat,加热
+Fan,Fan,风扇
+Speed&&Flow,Speed / Flow,变速控制
+Menu,Main Menu,主菜单
+MoveMenu,Move Menu,移动菜单
+Home,Home,归零
+Movement,Manual Move,手动移动
+Autoleveling,Auto Leveling,自动调平
+Leveling,Leveling,调平
+ManualLeveling,Manual Leveling,手动调平
+Extrude,Extrude,挤出机
+Settings,Settings,设置
+Machine,Machine,机器设置
+LEDColor,LED Color,LED设置
+ScreenSettings,Screen Settings,屏幕设置
+Print,Print,打印
+FileSelect,File Select,文件选择
+Printing,Printing,打印中
+BabyStep,Baby Step,微调
+PrintingMenu,Printing Menu,打印菜单
+Marlin,Marlin,马林
+BigTreeTech,BigTree Tech,必趣科技
+Status_Nozzle,Nozzle Status,喷嘴状态
+Status_Bed,Bed Status,热床状态
+Status_Fan,Fan Status,风扇状态
+Status_Flow,Flow Status,挤出机状态
+Status_Speed,Speed Status,运动电机状态
+MainMenu,Main Menu,主菜单
+InfoBox,Info Box,信息框
+Back,Back,返回
+CoolDown,Cool down,冷却
+Preheat_PLA,Preheat_PLA,PLA预热
+Preheat_PETG,Preheat_PETG,PETG预热
+Preheat_ABS,Preheat_ABS,ABS预热
+Preheat_Both,Both,热床和喷嘴
+Nozzle,Nozzle,喷嘴
+bed,Bed,热床
+Dec,Decrease,减
+Inc,Increase,加
+1_degree,Regulating Variable,调节量
+5_degree,Regulating Variable,调节量
+10_degree,Regulating Variable,调节量
+Stop,Stop,停止
+fan_full_speed,Full,全速
+fan_half_speed,Half,半速
+Move,Move,移动
+e_1_percent,Percent,百分比
+e_5_percent,Percent,百分比
+e_10_percent,Percent,百分比
+normal_speed,Normal,常速
+fast_speed,Fast,快速
+slow_speed,Slow,慢速
+Heat_Fan,Heat / Fan,加热 / 风扇
+Home_Move,Zero,归零
+gcode,GCode,GCode
+Custom,Custom,自定义
+manual_level,Manual Level,手动调平
+x_Home,X Axis Zero,X轴归零
+y_Home,Y Axis Zero,Y轴归零
+z_Home,Z Axis Zero,Z轴归零
+Z_dec,Z Axis Dec,Z轴减
+Y_inc,Y Axis Inc,Y轴加
+Z_inc,Z Axis Inc,Z轴加
+001_mm,Displacement,位移量
+01_mm,Displacement,位移量
+1_mm,Displacement,位移量
+10_mm,Displacement,位移量
+X_dec,X Axis Dec,X轴减
+Y_dec,Y Axis Dec,Y轴减
+X_inc,X Axis Inc,X轴加
+bltouch_deploy,Deploy,展开
+bltouch_stow,Stow,装载
+bltouch_test,Test,测试
+bltouch_repeat,Repeat,重复
+probe_offset,Offset,校准
+Point_1,Point 1,测试点1
+Point_2,Point 2,测试点2
+Point_3,Point 3,测试点3
+Point_4,Point 4,测试点4
+Unload,Unload,退料
+Load,Load,进料
+e_1_mm,Displacement,位移量
+e_5_mm,Displacement,位移量
+e_10_mm,Displacement,位移量
+screen_settings,Screen Settings,屏幕设置
+machine_settings,Machine Settings,机器设置
+feature_settings,Feature Settings,特征设置
+screen_info,Screen Info,屏幕信息
+Disconnect,Disconnect,断开连接
+baud_rate,Baud Rate,波特率
+RGB_Settings,RGB Settings,RGB设置
+shut_down,Shutdown,关机
+parameter,Parament,参数
+RGB_Red,Red,红色
+RGB_Green,Green,绿色
+RGB_Blue,Blue,蓝色
+RGB_White,White,白色
+RGB_Off,Off,关闭
+rotate_ui,Rotate,旋转UI
+touchscreen_adjust,Adjust,触摸屏自适应
+Language,Language,语言
+silent_on,Silent,提示音
+silent_off,Silent,提示音
+bkcolor,BackGround,背景颜色
+fontcolor,Font Color,字体颜色
+ontft_sd,TFT SD,屏幕SD
+onboard_sd,OnBoard SD,板载SD
+U_Disk,USB Disk,USB磁盘
+Folder,Folder,文件夹
+file,File,文件
+Page_up,Page Up,上一页
+Page_down,Page Down,下一页
+Resume,Resume,继续
+Pause,Pause,暂停
+More,More,更多
+Reset,Reset,重置
+Percentage,Percentage,百分比
